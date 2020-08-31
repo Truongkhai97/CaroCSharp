@@ -1,0 +1,9 @@
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\bin\Debug\CoCaro.exe.config
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\bin\Debug\CoCaro.exe
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\bin\Debug\CoCaro.pdb
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\obj\Debug\CoCaro.board.resources
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\obj\Debug\CoCaro.Properties.Resources.resources
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\obj\Debug\CoCaro.csproj.GenerateResource.Cache
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\obj\Debug\CoCaro.exe
+c:\users\truon\onedrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\obj\Debug\CoCaro.pdb
+C:\Users\Truon\OneDrive\documents\visual studio 2015\Projects\CoCaro\CoCaro\obj\Debug\CoCaro.csprojResolveAssemblyReference.cache
